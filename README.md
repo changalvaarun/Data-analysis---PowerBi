@@ -1,3 +1,5 @@
+Project link - https://www.novypro.com/profile_projects/arunchangalva
+
 ## Project Information:
 
 This project focuses on HR data analytics, utilizing a dataset of employee information. I employed Power BI to extract key performance indicators (KPIs), including:
