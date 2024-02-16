@@ -1,4 +1,5 @@
 Project link - https://www.novypro.com/profile_projects/arunchangalva
+SQL queries used for testing results - https://docs.google.com/document/d/1sHPvpPIK-Mv5nBc45QYycikDMAFqPkUx2PxvoK941_s/edit?usp=sharing
 
 ## Project Information:
 
